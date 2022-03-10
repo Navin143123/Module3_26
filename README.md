@@ -1,3 +1,8 @@
 # Module3_26
-Getting Started with ARM Based Microcontroller
-
+## TEAM MEMBERS
+|  PS No.  |  Names  |
+|----------|----------|
+| 99007690 | Lavudya Shirisha
+| 99007691 | Ravi Chitti
+| 99007692 | Deepika R
+| 99007693 | Navin V
