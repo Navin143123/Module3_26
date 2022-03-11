@@ -7,8 +7,14 @@
  * The transmissions between the car and key are encrypted to prevent theft.
  * Notify you that the command by the user using key fob has been executed in the Bi-Com system which has more securable than Unidirectional RKE System.
 ## Cost
- * Comparing with the Unidirectioanl RKE System its Cost High which includes two features in one product.
+   Comparing with the Unidirectioanl RKE System its Cost High which includes two features in one product.
 ## Features
+ * To print **Window** status of the car as a result all LED on at the same time
+ * To print **Alarm** status as a result all LED off at the same time
+ * To print **Car battery information** as a result all LED on in clockwise manner
+ * To print **Door** status of the car as a result all LED on in anti-clockwise manner)
+ 
+ Based on the press count of the switch (1-4) the above mentioned features are going to work accordingly .
  
 ## SWOT Anlaysis
 ## 5 W's & 1'H
