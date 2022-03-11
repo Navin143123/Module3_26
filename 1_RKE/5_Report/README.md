@@ -51,26 +51,22 @@ RKE operates by broadcasting radio waves on a particular frequency unidirectiona
 
 # Architecture
 
-## Behavioral Diagram:
+## 1) Behavioral Diagram:
 
 * High Level Behavioral Diagram 
-
-<img width="403" alt="ff" src="https://user-images.githubusercontent.com/99073372/157846011-39e3f327-6189-41ce-9a43-877dcd6c3cbb.PNG">
+ ![image](https://user-images.githubusercontent.com/98866123/157897659-5d22b0e6-29b7-4a72-80cb-89106c0bafc2.png)
 
 * Low Level Behavioral Diagram
+ ![image](https://user-images.githubusercontent.com/98866123/157897845-13d58e8a-ee65-44bd-aaf0-6baddecbc4cb.png)
 
-<img width="443" alt="222" src="https://user-images.githubusercontent.com/99073372/157862441-e53d454c-67df-4092-adb4-41fa49fb12cd.PNG">
+## 2) Structural Diagram:
 
-
-## Structural Diagram:
-
-###  High Level Stuctural Diagram
+ * High Level Stuctural Diagram
 
 <img width="747" alt="bb" src="https://user-images.githubusercontent.com/99073372/157856388-27ba62b4-a408-41a2-aa8b-acbe1cce09bc.PNG">
 
-###  Low Level Stuctural Diagram
-
-<img width="527" alt="111" src="https://user-images.githubusercontent.com/99073372/157857860-ae802c38-df07-4dbe-9131-5e0bd568fcf5.PNG">
+ * Low Level Stuctural Diagram
+ ![image](https://user-images.githubusercontent.com/98866123/157898082-0d927434-d046-40ad-af45-91233299fa8e.png)
 
 # High level test plan
 |Test ID|Description|Input|Expected Output|Actual Output|
