@@ -1,4 +1,6 @@
 # REMOTE KEYLESS ENTRY ( RKE )
+ ![image](https://user-images.githubusercontent.com/98866123/157840366-19613fbb-f1a9-42b2-9f5e-05b8fc819a06.png)
+
 ## Folder Structure and Contributors:-
    | Folder | Description | Contributors |
    |:---:|:---:|:---:|
@@ -12,9 +14,9 @@
    | 4_TestplanAndOutput | High and Low Level Test Plans | Ravi |
    | 5_Report | Described about what is done in this project | Navin |
    | 6_ImagesAndVideos | Captured outputs | Shirisha, Deepika, Ravi, Navin |
-   | 7_ ApplicationsAndOthers | System applications | Deepika |
-   |                          | Conclusion | Deepika |
-   |                          | Future Scope | Deepika |
-   |                          | Learning Resources | Deepika |
+   | 7_ ApplicationsAndOthers | System applications | Shirisha |
+   |                          | Conclusion |Shirisha |
+   |                          | Future Scope | Shirisha |
+   |                          | Learning Resources | Shirisha |
    
    
