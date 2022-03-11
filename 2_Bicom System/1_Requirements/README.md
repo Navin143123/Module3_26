@@ -14,7 +14,7 @@
  * To print **Car battery information** as a result all LED on in clockwise manner
  * To print **Door status** of the car as a result all LED on in anti-clockwise manner)
  
- Based on the press count of the switch (1-4) the above mentioned features are going to work accordingly .
+ Based on the press count of the Blue Button Switch (1-4) the above mentioned features are going to work accordingly .
 ## 5 W's & 1'H
  ![image](https://user-images.githubusercontent.com/98866123/157860770-fa06696b-b6e6-4835-bbce-832179709d52.png)
 ## SWOT Anlaysis
@@ -32,12 +32,12 @@
 ### Low Level Requirements
 | ID | Low Level Requirements for HLR1 | ID	| Low Level Requirements for HLR2 |
 | :---: | :---: | :---: | :---: |
-| LLR1.1 |	If the user wants to print WINDOW STATUS, user press the button ONE TIME | LLR2.1 |	User press the button TWO TIMES to print ALARM STATUS |
+| LLR1.1 |	If the user wants to print WINDOW STATUS, user press the Blue button ONE TIME | LLR2.1 |	User press the Blue button TWO TIMES to print ALARM STATUS |
 | LLR1.2  |	The system shall ON all the LED's |	LLR2.2 | The system shall OFF all the LED's  |
 | **ID** |	**Low Level Requirements for HLR3** |	**ID** | **Low Level Requirements for HLR4** |
-| LLR3.1 | User press the button THREE TIMES to print CAR BATTERY INFORMATION  |	LLR4.1 | User press the button FOUR TIMES to print DOOR STATUS of the automobile |
+| LLR3.1 | User press the Blue button THREE TIMES to print CAR BATTERY INFORMATION  |	LLR4.1 | User press the Blue button FOUR TIMES to print DOOR STATUS of the automobile |
 | LLR3.2 | All the LED's ON in CLOCKWISE MANNER |	LLR4.2 | All the LED's ON in ANTICLOCKWISE MANNER |
-| LLR3.3 | Example : Green->Red->Blue->Violet->Green | LLR4.3 | Example : Green->Violet->Blue->Red->Green |
+| LLR3.3 | Example : Green->Orange->Red->Blue->Green | LLR4.3 | Example : Green->Blue->Red->Orange->Green |
 ## Advantages
 * Convenience, better security, automatic work control.
 * No need of human interaction with the car.
