@@ -14,7 +14,6 @@
    | 4_TestplanAndOutput | High and Low Level Test Plans | Ravi |
    | 5_Report | Described about what is done in this project | Navin |
    | 6_ImagesAndVideos | Captured outputs | Shirisha, Deepika, Ravi, Navin |
-   | 7_ ApplicationsAndOthers | System applications | Shirisha |
-   |                          | Conclusion | Shirisha |
+   | 7_ Others                | Conclusion | Shirisha |
    |                          | Future Scope | Shirisha |
    |                          | Learning Resources | Shirisha |
