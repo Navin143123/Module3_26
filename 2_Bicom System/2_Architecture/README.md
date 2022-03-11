@@ -14,6 +14,7 @@
 ## 2) Structural Diagrams
 
 #### High Level Use Case Structural Diagram
+ ![image](https://user-images.githubusercontent.com/98866123/157895629-a47fdcc6-eb01-49ad-9b5c-18383aed25df.png)
 
 #### Low Level Use Case Structural Diagram
 
