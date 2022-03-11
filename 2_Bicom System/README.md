@@ -1,5 +1,4 @@
 # RKE BI-DIRECTIONAL COMMUNICATION SYSTEM
- ![Bicom car imag](https://user-images.githubusercontent.com/98866123/157822406-e3480b9c-56b8-476a-8ab3-dbcbe6e2ebbd.PNG)
 
 ## Folder Structure and Contributors:-
    | Folder | Description | Contributors |
