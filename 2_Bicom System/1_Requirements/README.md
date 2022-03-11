@@ -16,6 +16,12 @@
  ### High Level Requirements
  ### Low Level Requirements
 ## Advantages
+* Convience, better security, automatic workcontrol.
+* No need of human interaction with the car.
+* This system provides easy security access to the automobiles through encryption.
+* The automobile owners shall get benefited.
 ## Disadvantages
+* Replacing a lost fob costs much more than a traditional key.
+* This system works on certain limited range.
 
 
