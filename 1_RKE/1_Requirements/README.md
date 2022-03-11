@@ -40,4 +40,4 @@
 | LLR3.2 | Driver on at certain time to operate the fan |	LLR4.2 | Temperature and fan speed shall be displayed |
 ## Advantages
 ## Disadvantages
-## Applications
+
