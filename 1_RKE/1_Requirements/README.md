@@ -25,19 +25,26 @@
 ### High Level Requirements
 | ID | High Level Requirements |
 | :---: | :---: |
-| HLR1 | System shall control fan |
+| HLR1 | System shall control automobile lock or unlock |
 | HLR2 | There shall be an LCD to display some contents |
-| HLR3 | Driver shall be used to turn on or off the fan |
-| HLR4 | System Shall detect temperature |
+| HLR3 | Remote shall be used to control the automobile |
+| HLR4 | System Shall capture frequency |
 
 ### Low Level Requirements
 | ID | Low Level Requirements for HLR1 | ID	| Low Level Requirements for HLR2 |
 | :---: | :---: | :---: | :---: |
-| LLR1.1 |	According to sensor value, fan shall be controlled | LLR2.1 |	Temperature, person count shall be displayed |
-| LLR1.2  |	The sensor shall be control by Atmega328 |	LLR2.2 |	Fan and temperature status shall be displayed |
+| LLR1.1 |	According to signal frequency, lock system shall be controlled | LLR2.1 |	Lock & Unlock status shall be displayed |
+| LLR1.2  |	The system shall be control by remote |	LLR2.2 |	Alarm activation/deactivation & approach light  status shall be displayed |
 | ID |	Low Level Requirements for HLR3 |	ID | Low Level Requirements for HLR4 |
-| LLR3.1 | Driver shall be controlled by the Atmega328 |	LLR4.1 | Temperature sensor detect the room temperature |
-| LLR3.2 | Driver on at certain time to operate the fan |	LLR4.2 | Temperature and fan speed shall be displayed |
-## Advantages
-## Disadvantages
+| LLR3.1 | Lock & Unlock shall be controlled|	LLR4.1 | Remote shall send the signal to automobile with particular frequency |
+| LLR3.2 | Alarm activation/deactivation & approach light shall be controlled |	LLR4.2 |  Remote shall capture the signal to automobile with particular frequency |
+
+## ADVANTAGES
+###	* Easy to use.
+###	* It helps to protect automobile from thieves.
+###	* During night it is very easy to find automobile if more cars are present.
+
+## DISADVANTAGES
+###	* If any other remote have our remote frequency then our automobile security is in trouble.
+###	* If our remote is lost then our automobile security is in more trouble.
 
