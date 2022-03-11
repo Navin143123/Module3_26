@@ -36,7 +36,7 @@
 | LLR3.2 | All the LED's ON in CLOCKWISE MANNER |	LLR4.2 | All the LED's ON in ANTICLOCKWISE MANNER |
 | LLR3.3 | Example : Green->Red->Blue->Violet->Green | LLR4.3 | Example : Green->Violet->Blue->Red->Green |
 ## Advantages
-* Convience, better security, automatic workcontrol.
+* Convenience, better security, automatic work control.
 * No need of human interaction with the car.
 * This system provides easy security access to the automobiles through encryption.
 * The automobile owners shall get benefited.
