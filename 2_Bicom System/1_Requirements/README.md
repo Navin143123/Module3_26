@@ -12,7 +12,7 @@
  * To print **Window** status of the car as a result all LED on at the same time
  * To print **Alarm** status as a result all LED off at the same time
  * To print **Car battery information** as a result all LED on in clockwise manner
- * To print **Door** status of the car as a result all LED on in anti-clockwise manner)
+ * To print **Door status** of the car as a result all LED on in anti-clockwise manner)
  
  Based on the press count of the switch (1-4) the above mentioned features are going to work accordingly .
 ## 5 W's & 1'H
@@ -29,12 +29,12 @@
 ### Low Level Requirements
 | ID | Low Level Requirements for HLR1 | ID	| Low Level Requirements for HLR2 |
 | :---: | :---: | :---: | :---: |
-| LLR1.1 |	According to signal frequency, lock system shall be controlled | LLR2.1 |	Lock & Unlock status shall be displayed |
-| LLR1.2  |	The system shall be control by remote |	LLR2.2 |	Alarm activation/deactivation & approach light  status shall be displayed |
+| LLR1.1 |	If the user wants to print WINDOW STATUS, user press the button ONE TIME | LLR2.1 |	User press the button TWO TIMES to print ALARM STATUS |
+| LLR1.2  |	The system shall ON all the LED's |	LLR2.2 | The system shall OFF all the LED's  |
 | **ID** |	**Low Level Requirements for HLR3** |	**ID** | **Low Level Requirements for HLR4** |
-| LLR3.1 | Lock & Unlock shall be controlled|	LLR4.1 | Remote shall send the signal to automobile with particular frequency |
-| LLR3.2 | Alarm activation/deactivation & approach light shall be controlled |	LLR4.2 |  Remote shall uses encryption ,eg(1+2 is sended, 3 should be received |
-
+| LLR3.1 | User press the button THREE TIMES to print CAR BATTERY INFORMATION  |	LLR4.1 | User press the button FOUR TIMES to print DOOR STATUS of the automobile |
+| LLR3.2 | All the LED's ON in CLOCKWISE MANNER |	LLR4.2 | All the LED's ON in ANTICLOCKWISE MANNER (eg : Green->Violet->Blue->Red->Green)|
+| LLR3.3 | Example : Green->Red->Blue->Violet->Green | LLR4.3 | Example : Green->Violet->Blue->Red->Green |
 ## Advantages
 * Convience, better security, automatic workcontrol.
 * No need of human interaction with the car.
