@@ -1,6 +1,6 @@
 # Architecture
 
-## Behavioral Diagram:
+## 1) Behavioral Diagram:
 
 * High Level Behavioral Diagram 
  ![image](https://user-images.githubusercontent.com/98866123/157897659-5d22b0e6-29b7-4a72-80cb-89106c0bafc2.png)
@@ -8,7 +8,7 @@
 * Low Level Behavioral Diagram
  ![image](https://user-images.githubusercontent.com/98866123/157897845-13d58e8a-ee65-44bd-aaf0-6baddecbc4cb.png)
 
-## Structural Diagram:
+## 2) Structural Diagram:
 
  * High Level Stuctural Diagram
 
