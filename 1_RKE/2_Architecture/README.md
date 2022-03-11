@@ -11,7 +11,7 @@
 <img width="443" alt="222" src="https://user-images.githubusercontent.com/99073372/157862441-e53d454c-67df-4092-adb4-41fa49fb12cd.PNG">
 
 
-## Structural Diagram
+## Structural Diagram:
 
 ###  High Level Stuctural Diagram
 
