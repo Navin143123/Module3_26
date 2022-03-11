@@ -4,8 +4,8 @@
 ## IDENTIFYING FEATURES
 ###	* STM32F407VG controller shall be used for the control of the system.
 ###	* LCD Display shall be provided to display operations.
-### * This system provides easy security access to the automobiles.
-### * The remote shall send and receive radio signals with particular frequency.
+### * This system provides easy security access to the automobiles through encryption.
+### * The remote shall send radio signals with particular frequency.
 ### * The automobile owners shall get benefited.
 
 ## STATE OF ART
@@ -26,9 +26,9 @@
 | ID | High Level Requirements |
 | :---: | :---: |
 | HLR1 | System shall control automobile lock or unlock |
-| HLR2 | There shall be an LCD to display some contents |
+| HLR2 | There shall be an LCD to display some functions |
 | HLR3 | Remote shall be used to control the automobile |
-| HLR4 | System Shall capture frequency |
+| HLR4 | System Shall send frequency |
 
 ### Low Level Requirements
 | ID | Low Level Requirements for HLR1 | ID	| Low Level Requirements for HLR2 |
@@ -37,7 +37,7 @@
 | LLR1.2  |	The system shall be control by remote |	LLR2.2 |	Alarm activation/deactivation & approach light  status shall be displayed |
 | ID |	Low Level Requirements for HLR3 |	ID | Low Level Requirements for HLR4 |
 | LLR3.1 | Lock & Unlock shall be controlled|	LLR4.1 | Remote shall send the signal to automobile with particular frequency |
-| LLR3.2 | Alarm activation/deactivation & approach light shall be controlled |	LLR4.2 |  Remote shall capture the signal to automobile with particular frequency |
+| LLR3.2 | Alarm activation/deactivation & approach light shall be controlled |	LLR4.2 |  Remote shall uses encryption ,eg(1+2 is sended, 3 should be received |
 
 ## ADVANTAGES
 ###	* Easy to use.
