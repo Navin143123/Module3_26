@@ -8,7 +8,8 @@
 
 #### Low Level Flow Chart Behavioral Diagram
 
-<img width="449" alt="01" src="https://user-images.githubusercontent.com/99073372/157874163-b423d1ec-d163-409a-a1d3-999b46484edd.PNG">
+<img width="457" alt="10" src="https://user-images.githubusercontent.com/99073372/157882587-2ef7280b-e095-4554-a317-1b28066f3c32.PNG">
+
 
 ## 2) Structural Diagrams
 
@@ -16,5 +17,5 @@
 
 #### Low Level Use Case Structural Diagram
 
-<img width="609" alt="09" src="https://user-images.githubusercontent.com/99073372/157881411-bbcd4c3b-0d3a-46da-92ae-034594d217bd.PNG">
+<img width="657" alt="110" src="https://user-images.githubusercontent.com/99073372/157882842-66b3541b-ae00-4534-a52a-bd14bc51ddfd.PNG">
 
