@@ -33,7 +33,7 @@
 | LLR1.2  |	The system shall ON all the LED's |	LLR2.2 | The system shall OFF all the LED's  |
 | **ID** |	**Low Level Requirements for HLR3** |	**ID** | **Low Level Requirements for HLR4** |
 | LLR3.1 | User press the button THREE TIMES to print CAR BATTERY INFORMATION  |	LLR4.1 | User press the button FOUR TIMES to print DOOR STATUS of the automobile |
-| LLR3.2 | All the LED's ON in CLOCKWISE MANNER |	LLR4.2 | All the LED's ON in ANTICLOCKWISE MANNER (eg : Green->Violet->Blue->Red->Green)|
+| LLR3.2 | All the LED's ON in CLOCKWISE MANNER |	LLR4.2 | All the LED's ON in ANTICLOCKWISE MANNER |
 | LLR3.3 | Example : Green->Red->Blue->Violet->Green | LLR4.3 | Example : Green->Violet->Blue->Red->Green |
 ## Advantages
 * Convience, better security, automatic workcontrol.
