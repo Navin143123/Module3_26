@@ -1,4 +1,6 @@
 # RKE BI-DIRECTIONAL COMMUNICATION SYSTEM
+ ![Bicom car imag](https://user-images.githubusercontent.com/98866123/157822406-e3480b9c-56b8-476a-8ab3-dbcbe6e2ebbd.PNG)
+
 ## Folder Structure and Contributors:-
    | Folder | Description | Contributors |
    |:---:|:---:|:---:|
@@ -12,7 +14,7 @@
    | 4_TestplanAndOutput | High and Low Level Test Plans | Ravi |
    | 5_Report | Described about what is done in this project | Navin |
    | 6_ImagesAndVideos | Captured outputs | Shirisha, Deepika, Ravi, Navin |
-   | 7_ ApplicationsAndOthers | System applications | Deepika |
-   |                          | Conclusion | Deepika |
-   |                          | Future Scope | Deepika |
-   |                          | Learning Resources | Deepika |
+   | 7_ ApplicationsAndOthers | System applications | Shrisha |
+   |                          | Conclusion | Shrisha |
+   |                          | Future Scope | Shirisha |
+   |                          | Learning Resources | Shirisha |
