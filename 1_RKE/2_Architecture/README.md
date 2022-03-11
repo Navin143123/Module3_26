@@ -8,9 +8,20 @@
 
 ## Structural Diagram
 
-* High Level Block Diagram
+## * High Level Stuctural Diagram
 
-<img width="724" alt="blockd" src="https://user-images.githubusercontent.com/99073372/157852668-72d5c38d-d97d-4141-ba31-2656a7b91bcc.PNG">
+<img width="747" alt="bb" src="https://user-images.githubusercontent.com/99073372/157856388-27ba62b4-a408-41a2-aa8b-acbe1cce09bc.PNG">
+
+## * Low Level Stuctural Diagram
+
+<img width="527" alt="111" src="https://user-images.githubusercontent.com/99073372/157857860-ae802c38-df07-4dbe-9131-5e0bd568fcf5.PNG">
+
+
+
+
+
+
+
 
 
 
