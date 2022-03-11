@@ -21,7 +21,7 @@
 * This system provides easy security access to the automobiles through encryption.
 * The automobile owners shall get benefited.
 ## Disadvantages
-* Replacing a lost fob costs much more than a traditional key.
+* Cost more than a traditional key to replace the lost key fob.
 * This system works on certain limited range.
 
 
