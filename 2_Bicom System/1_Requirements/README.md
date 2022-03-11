@@ -16,6 +16,7 @@
  
  Based on the press count of the switch (1-4) the above mentioned features are going to work accordingly .
 ## 5 W's & 1'H
+ ![image](https://user-images.githubusercontent.com/98866123/157860770-fa06696b-b6e6-4835-bbce-832179709d52.png)
 ## SWOT Anlaysis
  ![image](https://user-images.githubusercontent.com/98866123/157855366-995bf939-f808-497f-a32d-c434c49040e5.png)
 
