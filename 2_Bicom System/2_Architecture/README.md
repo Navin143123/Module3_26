@@ -2,9 +2,9 @@
 
 ## 1) Behavioral Diagrams
 
-#### High Level Flow Chart Behavioral Diagram
+#### High Level Sequence Behavioral Diagram
+ ![image](https://user-images.githubusercontent.com/98866123/157879858-75075707-0af4-4007-96c5-2d5ea2dedfe1.png)
 
-<img width="534" alt="12" src="https://user-images.githubusercontent.com/99073372/157872439-7d322ae0-0278-4688-971e-096dc56663ca.PNG">
 
 #### Low Level Flow Chart Behavioral Diagram
 
