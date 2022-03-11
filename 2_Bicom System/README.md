@@ -2,10 +2,10 @@
 ## Folder Structure and Contributors:-
    | Folder | Description | Contributors |
    |:---:|:---:|:---:|
-   | 1_Requirements | Abstract, Features, State of art | Navin |
-   |                | SWOT Analysis, 5W'S & 1H | Navin |
-   |                | High and Low Level Requirements | Navin |
-   |                | Advantages & disadvantages | Navin |
+   | 1_Requirements | Abstract, Features, State of art | Deepika |
+   |                | SWOT Analysis, 5W'S & 1H | Deepika |
+   |                | High and Low Level Requirements | Deepika |
+   |                | Advantages & disadvantages | Deepika |
    | 2_Architectures | Block Diagram and Components | Shirisha |
    |                 | Structural & Behavioural diagrams | Shirisha |
    | 3_Implementation | Source Code files | Shirisha, Deepika, Ravi, Navin |
