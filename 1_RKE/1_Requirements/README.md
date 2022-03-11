@@ -35,7 +35,7 @@ RKE operates by broadcasting radio waves on a particular frequency unidirectiona
 | :---: | :---: | :---: | :---: |
 | LLR1.1 |	According to signal frequency, lock system shall be controlled | LLR2.1 |	Lock & Unlock status shall be displayed |
 | LLR1.2  |	The system shall be control by remote |	LLR2.2 |	Alarm activation/deactivation & approach light  status shall be displayed |
-| ID |	Low Level Requirements for HLR3 |	ID | Low Level Requirements for HLR4 |
+| **ID** |	**Low Level Requirements for HLR3** |	**ID** | **Low Level Requirements for HLR4** |
 | LLR3.1 | Lock & Unlock shall be controlled|	LLR4.1 | Remote shall send the signal to automobile with particular frequency |
 | LLR3.2 | Alarm activation/deactivation & approach light shall be controlled |	LLR4.2 |  Remote shall uses encryption ,eg(1+2 is sended, 3 should be received |
 
