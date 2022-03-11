@@ -17,5 +17,5 @@
 
 #### Low Level Use Case Structural Diagram
 
-<img width="657" alt="110" src="https://user-images.githubusercontent.com/99073372/157882842-66b3541b-ae00-4534-a52a-bd14bc51ddfd.PNG">
+<img width="614" alt="45" src="https://user-images.githubusercontent.com/99073372/157883799-96a816a3-4022-41a7-81a5-257a8c0408dd.PNG">
 
