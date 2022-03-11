@@ -6,8 +6,10 @@
 
 <img width="534" alt="12" src="https://user-images.githubusercontent.com/99073372/157872439-7d322ae0-0278-4688-971e-096dc56663ca.PNG">
 
-
 #### Low Level Flow Chart Behavioral Diagram
+
+<img width="449" alt="01" src="https://user-images.githubusercontent.com/99073372/157874163-b423d1ec-d163-409a-a1d3-999b46484edd.PNG">
+
 
 
 
