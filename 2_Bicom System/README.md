@@ -1,20 +1,18 @@
 # RKE BI-DIRECTIONAL COMMUNICATION SYSTEM
-## Folder Structure and Contributors
-   | Folder               |            	Description                                           |   Contributors        |
-   |----------------------|-------------------------------------------------------------------|------------------------
-   | 1_Requirements	      | 1. Project detailing requirements, research and cost & features   |
-   |                      | 2. SWOT Analysis, 5W'S & 1H                                       |
-   |                      | 3. High and Low Level Requirements                                |
-   |                      | 4. Advantages & disadvantages.                                    |
-   | 2_Architectures      | 1. Block Diagram and flowchart                                    |
-   |                      | 2. Structural & Behavioural design details.                       |
-   | 3_Implementation     | Source Code files.                                                | 
-   | 4_TestplanAndOutput  | High and Low Level Test Plans.                                    |
-   | 5_Report             | Described about what is done in this project.                     |
-   | 6_ImagesAndVideos    | Captured outputs.                                                 |
-   | 7_ ApplicationsAndOthers | 1. System applications                                        |
-   |                       | 2. Conclusion                                                    |
-   |                       | 3. Future Scope                                                  |
-   |                       | 4. Learning Resources                                            |
-   
-   
+## Folder Structure and Contributors:-
+   | Folder | Description | Contributors |
+   |:---:|:---:|:---:|
+   | 1_Requirements | Abstract, Features, State of art | Navin |
+   |                | SWOT Analysis, 5W'S & 1H | Navin |
+   |                | High and Low Level Requirements | Navin |
+   |                | Advantages & disadvantages | Navin |
+   | 2_Architectures | Block Diagram and Components | Shirisha |
+   |                 | Structural & Behavioural diagrams | Shirisha |
+   | 3_Implementation | Source Code files | Shirisha, Deepika, Ravi, Navin |
+   | 4_TestplanAndOutput | High and Low Level Test Plans | Ravi |
+   | 5_Report | Described about what is done in this project | Navin |
+   | 6_ImagesAndVideos | Captured outputs | Shirisha, Deepika, Ravi, Navin |
+   | 7_ ApplicationsAndOthers | System applications | Deepika |
+   |                          | Conclusion | Deepika |
+   |                          | Future Scope | Deepika |
+   |                          | Learning Resources | Deepika |
