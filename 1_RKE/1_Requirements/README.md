@@ -15,10 +15,10 @@
 ### RKE operates by broadcasting radio waves on a particular frequency unidirectionally. RKE systems implement encryption and rolling code algorithms to prevent car thieves from intercepting and spoofing the telegrams. 
   
 ## 5W’s 1H
-
+![Screenshot (103)](https://user-images.githubusercontent.com/98948360/157801872-6769e0e2-f3cf-4327-ba11-0a323d103aea.png)
 
 ## SWOT ANALYSIS
-
+![Screenshot (101)](https://user-images.githubusercontent.com/98948360/157801547-2273ba44-c550-463c-ae85-6ee2737da846.png)
 
 ## REQUIREMENTS
 
