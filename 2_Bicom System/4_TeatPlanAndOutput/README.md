@@ -11,8 +11,8 @@
 |:----:|:---:|:---:|:------:|:----:|:---:|
 |LLT1|All LED's ON |User press Blue button Once|All LED's shall ON at the same time|All LED's ON at the same time|✔|
 |LLT2|All LED's OFF |User press Blue button Twice|All LED's shall OFF at the same time|All LED's OFF at the same time|✔|
-|LLT3|All LED's ON in clockwise manner|User press Blue button Thrice|All LED's shall ON in clockwise manner|All LED's ON in clockwise manner|✔|
-|LLT4|All LED's ON in anti-clockwise manner|User press Blue button Four times|All LED's shall ON in anti-clockwise manner|All LED's ON in anti-clockwise manner|✔|
+|LLT3|All LED's ON in clockwise manner|User press Blue button Thrice|All LED's shall ON in clockwise manner Green->Orange->Red->Blue->Green|All LED's ON in clockwise manner Green->Orange->Red->Blue->Green|✔|
+|LLT4|All LED's ON in anti-clockwise manner|User press Blue button Four times|All LED's shall ON in anti-clockwise manner Green->Blue->Red->Orange->Green|All LED's ON in anti-clockwise manner Green->Blue->Red->Orange->Green|✔|
 
 
 
