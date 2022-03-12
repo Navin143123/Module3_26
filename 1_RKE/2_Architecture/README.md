@@ -1,4 +1,4 @@
-# Architecture
+# ARCHITECTURE
 
 ## 1) Behavioral Diagram:
 
