@@ -11,5 +11,5 @@
 ### FOLDER STRUCTURE
 | Folders  |  Description  |
 |----------|---------------|
-| 1_RKE    | 
-| 2_Bicom System| 
+| 1_RKE    | Remote Keyless Entry
+| 2_Bicom System| Bidirectional Communication Of Remote Keyless Entry System
