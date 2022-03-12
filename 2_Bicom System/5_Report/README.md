@@ -98,6 +98,8 @@
 |LLT3|All LED's ON in clockwise manner|User press Blue button Thrice|All LED's shall ON in clockwise manner|All LED's ON in clockwise manner|✔|
 |LLT4|All LED's ON in anti-clockwise manner|User press Blue button Four times|All LED's shall ON in anti-clockwise manner|All LED's ON in anti-clockwise manner|✔|
 
+# Output in cygwin terminal
+![Screenshot (114)](https://user-images.githubusercontent.com/98948360/158001215-c76ec4bc-1056-42b2-af8d-780c3bf30c8c.png)
 
 
 # CONCLUSION
