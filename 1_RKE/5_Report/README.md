@@ -49,7 +49,7 @@ RKE operates by broadcasting radio waves on a particular frequency unidirectiona
 * If any other remote have our remote frequency then our automobile security is in trouble.
 * If our remote is lost then our automobile security is in more trouble.
 
-# Architecture
+# ARCHITECTURE
 
 ## 1) Behavioral Diagram:
 
@@ -67,15 +67,18 @@ RKE operates by broadcasting radio waves on a particular frequency unidirectiona
 
  * Low Level Stuctural Diagram
  ![image](https://user-images.githubusercontent.com/98866123/157898082-0d927434-d046-40ad-af45-91233299fa8e.png)
-
-# High level test plan
+ ## Best Method Followed
+* Detailed working flow explained in Structural and Behavioral diagram.
+* For better understanding the system function is explained in clear format by High and Low level design for both Behavioral and Structural Diagram. 
+# TEST PLAN
+## High level test plan
 |Test ID|Description|Input|Expected Output|Actual Output|
 |:----:|:----:|:----:|:----:|:----:|
 |HLT1|The system shall lock the car doors|User press button|Car locked|Car locked|
 |HLT2|The system shall unlock the car doors|User press button|Car unlocked|Car unlocked|
 |HLT3|The system shall control the alarm|User press button|Car alarm activate/deactivate|Car alarm activate/deactivate|
 |HLT4|The system shall approach the lights|User press button|Car approach light|Car approach light|
-# Low level test plan
+## Low level test plan
 |ID|Description|Input|Expected Output|Actual Output|Status|
 |:----:|:---:|:---:|:------:|:----:|:---:|
 |HLT1|All the LED's should ON at the same time|User press button once|All LED's ON|All LED's ON|✔|
