@@ -7,9 +7,9 @@
    | Folder | Description | Contributors |
    |:---:|:---:|:---:|
    | 1_Requirements | Abstract, Features, State of art, SWOT Analysis, 5W'S & 1H | Deepika |
-   |                | High and Low Level Requirements | Deepika |
+   |                | High and Low Level Requirements | Deepika, Shirisha |
    |                | Advantages & disadvantages | Deepika |
-   | 2_Architectures | Behavioral & Structural diagrams | Shirisha |
+   | 2_Architectures | Behavioral & Structural diagrams | Shirisha, Deepika |
    | 3_Implementation | Source Code files | Shirisha, Deepika, Ravi, Navin |
    | 4_TestplanAndOutput | High and Low Level Test Plans | Ravi |
    | 5_Report | Described about what is done in this project | Navin |
