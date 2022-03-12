@@ -16,4 +16,14 @@
 
 * Low Level Use Case Structural Diagram
 ![image](https://user-images.githubusercontent.com/98866123/157896257-f4ae11b9-0c81-4fa3-922f-77fc8cdce0ab.png)
+## Best Method Followed
+* Detailed working flow explained in Structural and Behavioral diagram.
+* For better understanding the system function is explained in clear format by High and Low level design for both Behavioral and Structural Diagram. 
+
+
+
+
+
+
+
 
