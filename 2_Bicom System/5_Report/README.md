@@ -60,7 +60,7 @@
 * If remote is lost then automobile security is in more trouble.
 * If any other remote have our remote frequency then our automobile security is in trouble.
 * This system works on certain limited range.
-# ARCHITECTURAL DESIGN
+# ARCHITECTURE
 
 ## 1) Behavioral Diagrams
 
@@ -79,6 +79,9 @@
 
 #### * Low Level Use Case Structural Diagram
 ![image](https://user-images.githubusercontent.com/98866123/157896257-f4ae11b9-0c81-4fa3-922f-77fc8cdce0ab.png)
+## Best Method Followed
+* Detailed working flow explained in Structural and Behavioral diagram.
+* For better understanding the system function is explained in clear format by High and Low level design for both Behavioral and Structural Diagram. 
 
 # CONCLUSION
  Bi-Com System of Remote Keyless Entry(RKE) is system where automobile owners are much more befenited for handling the automobile like diplaying or printing the car status such as Window, Alarm, Car Battery information & Door status and monitoring the status of the automobile remotely in a two way communication method between the key fob and car.  The scope of this system is huge in automobiles.  This is the Better Security system with Highly Encrypted with no need of direct human interactions with the car.
