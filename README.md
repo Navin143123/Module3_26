@@ -1,5 +1,5 @@
 # Module3_26
-
+* Repository for doing projects as per industry standards
 ### TEAM MEMBERS
 |  PS No.  |  Names  |
 |:--:|:--:|
