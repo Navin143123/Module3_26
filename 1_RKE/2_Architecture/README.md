@@ -17,6 +17,10 @@
  * Low Level Stuctural Diagram
  ![image](https://user-images.githubusercontent.com/98866123/157898082-0d927434-d046-40ad-af45-91233299fa8e.png)
 
+## Best Method Followed
+* Detailed working flow explained in Structural and Behavioral diagram.
+* For better understanding the system function is explained in clear format by High and Low level design for both Behavioral and Structural Diagram. 
+
 
 
 
