@@ -98,6 +98,9 @@ RKE operates by broadcasting radio waves on a particular frequency unidirectiona
 |HLT2|All the LED's should OFF at the same time|User press button twice|All LED's OFF|All LED's OFF|✔|
 |HLT3|All the LED's should ON in clockwise manner|User press button thrice|All LED's ON in clockwise manner|All LED's ON in clockwise manner|✔|
 |HLT4|All the LED's should ON in anti-clockwise manner|User press button four times|All LED's ON in anti-clockwise manner|All LED's ON in anti-clockwise manner|✔|
+# CONCLUSION
+ Remote Keyless Entry(RKE) is system where automobile owners are much more befenited for handling the automobile like Lock & Unlock the car in remote and monitoring the status of the automobile. The scope of this system is huge in automobiles.This is the Better Security system with no need of direct human interactions with the car.
+
 
 
 
