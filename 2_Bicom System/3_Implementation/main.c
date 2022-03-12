@@ -20,9 +20,9 @@ void delay(uint32_t tdelay) // used to create time delay  by Shirisha
 
 int main(void)
 {
-	GPIO_Handle_t GpiogLed,GpiooLed,GpiorLed,GpiobLed,GpioBtn;
-	GpiogLed.pGPIOx = GPIOD;                                  // Initialise pin for green led by Shirisha
-	GpiogLed.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_12;
+    GPIO_Handle_t GpiogLed,GpiooLed,GpiorLed,GpiobLed,GpioBtn;
+    GpiogLed.pGPIOx = GPIOD;                                  // Initialise pin for green led by Shirisha
+    GpiogLed.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_12;
     GpiogLed.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_OUT;
     GpiogLed.GPIO_PinConfig.GPIO_PinSpeed = GPIO_SPEED_MEDIUM;
     GpiogLed.GPIO_PinConfig.GPIO_PinOPType = GPIO_OP_TYPE_PP;
@@ -38,7 +38,7 @@ int main(void)
         GPIO_Init(&GpiooLed);
 
             GpiorLed.pGPIOx = GPIOD;                         // Initialise pin for red led by Ravi
-        	GpiorLed.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_14;
+            GpiorLed.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_14;
             GpiorLed.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_OUT;
             GpiorLed.GPIO_PinConfig.GPIO_PinSpeed = GPIO_SPEED_MEDIUM;
             GpiorLed.GPIO_PinConfig.GPIO_PinOPType = GPIO_OP_TYPE_PP;
@@ -56,7 +56,7 @@ int main(void)
 
 
 
-    GpioBtn.pGPIOx = GPIOA;                        // Initialise pin for blue switch by Navin
+    GpioBtn.pGPIOx = GPIOA;  // Initialise pin for blue switch by Navin
     GpioBtn.GPIO_PinConfig.GPIO_PinNumber = GPIO_PIN_NO_0;
     GpioBtn.GPIO_PinConfig.GPIO_PinMode = GPIO_MODE_IN;
     GpioBtn.GPIO_PinConfig.GPIO_PinSpeed = GPIO_SPEED_MEDIUM;
