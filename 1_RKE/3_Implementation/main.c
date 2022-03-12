@@ -182,7 +182,7 @@ while (1) // for calling the functions by Navin
           if(endata == 1014)
           {
         	 appr_light();
-        	bcount = 0;
+        	 bcount = 0;
           }
 }
 }
